@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("GNQWUnDQPFU5LxmpeHcuzfkHiA64oqnNRXkD3az53nzu");
+declare_id!("JBtyk8UUtSP3j2SR7nzfZUXwX74Mq6tm6rwaVasXA9QX");
 
 // for smart contracts
 #[program]
